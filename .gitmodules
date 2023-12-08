@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:amani-bousselidj/project-school.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:amani-bousselidj/Aml-School.git
